@@ -13,6 +13,13 @@
       "artist": "LoFiMan",
       "imageName": "cover2",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/MelodicTypeBeat.mp3"
+    },
+    {
+      "id": "beat3",
+      "name": "R&B",
+      "artist": "Osman Tarık",
+      "imageName": "cover3",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/rnb.mp3"
     }
   ],
   "voices": [
