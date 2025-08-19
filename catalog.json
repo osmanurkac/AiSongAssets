@@ -28,7 +28,6 @@
       "imageName": "cover4",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/Electronic.wav"
     }
-    
   ],
   "voices": [
     {
@@ -42,6 +41,29 @@
       "name": "Female Singer, Vocals",
       "imageName": "voice2",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice2.mp3"
+    }
+  ],
+  "voiceovers": [
+    {
+      "id": "vo_bat",
+      "name": "Bat Narrator",
+      "imageName": "voice4",
+      "category": "wtf",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/bat.mp3"
+    },
+    {
+      "id": "vo_ann",
+      "name": "Announcer",
+      "imageName": "voice6",
+      "category": "featured",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/announcer.mp3"
+    },
+    {
+      "id": "vo_week",
+      "name": "Weekdays Reader",
+      "imageName": "voice1",
+      "category": "weekdays",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/weekdays.mp3"
     }
   ]
 }
