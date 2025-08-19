@@ -20,7 +20,15 @@
       "artist": "Osman Tarık",
       "imageName": "cover3",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/rnb.mp3"
+    },
+    {
+      "id": "beat4",
+      "name": "Electronic",
+      "artist": "Aslı",
+      "imageName": "cover4",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/Electronic.wav"
     }
+    
   ],
   "voices": [
     {
