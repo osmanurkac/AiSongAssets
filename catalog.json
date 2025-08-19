@@ -45,11 +45,11 @@
   ],
   "voiceovers": [
     {
-      "id": "vo_bat",
-      "name": "Bat Narrator",
-      "imageName": "voice4",
+      "id": "Bulk",
+      "name": "Bulk",
+      "imageName": "voices4",
       "category": "wtf",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/bat.mp3"
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/hulk-hogan-brother.mp3"
     },
     {
       "id": "vo_ann",
