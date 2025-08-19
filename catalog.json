@@ -5,7 +5,7 @@
       "name": "80s Synthwave",
       "artist": "RetroFuture",
       "imageName": "cover1",
-      "url": "RAW_BEAT1_URL"
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat1.mp3"
     }
   ],
   "voices": [
@@ -13,7 +13,7 @@
       "id": "male_pop",
       "name": "Male Pop Singer",
       "imageName": "voice1",
-      "url": "RAW_VOICE_MALE_URL"
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice1.mp3"
     }
   ]
 }
