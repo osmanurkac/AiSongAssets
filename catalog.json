@@ -1,0 +1,19 @@
+{
+  "beats": [
+    {
+      "id": "beat1",
+      "name": "80s Synthwave",
+      "artist": "RetroFuture",
+      "imageName": "cover1",
+      "url": "RAW_BEAT1_URL"
+    }
+  ],
+  "voices": [
+    {
+      "id": "male_pop",
+      "name": "Male Pop Singer",
+      "imageName": "voice1",
+      "url": "RAW_VOICE_MALE_URL"
+    }
+  ]
+}
