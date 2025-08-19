@@ -11,7 +11,7 @@
   "voices": [
     {
       "id": "male_pop",
-      "name": "Male Pop Singer",
+      "name": "Rapper",
       "imageName": "voice1",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice1.mp3"
     }
