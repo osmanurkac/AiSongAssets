@@ -6,6 +6,13 @@
       "artist": "RetroFuture",
       "imageName": "cover1",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat1.mp3"
+    },
+    {
+      "id": "beat2",
+      "name": "Melodic Type Beat",
+      "artist": "LoFiMan",
+      "imageName": "cover2",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/MelodicTypeBeat.mp3"
     }
   ],
   "voices": [
