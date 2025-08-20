@@ -46,24 +46,94 @@
   "voiceovers": [
     {
       "id": "Bulk",
-      "name": "Bulk",
+      "name": "Hulk",
       "imageName": "voices4",
       "category": "wtf",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/Hulk.wav"
     },
     {
-      "id": "vo_ann",
-      "name": "Announcer",
-      "imageName": "voice6",
+      "id": "vo_obama",
+      "name": "Obama",
+      "imageName": "voice_obama",
       "category": "featured",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/announcer.mp3"
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/Obama.wav"
     },
     {
-      "id": "vo_week",
-      "name": "Weekdays Reader",
-      "imageName": "voice1",
-      "category": "weekdays",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/weekdays.mp3"
+      "id": "vo_trump",
+      "name": "Trump",
+      "imageName": "voice_trump",
+      "category": "featured",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/Trump.wav"
+    },
+    {
+      "id": "vo_vader",
+      "name": "Darth Vader",
+      "imageName": "voice_vader",
+      "category": "wtf",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/darthvader.wav"
+    },
+    {
+      "id": "vo_drake",
+      "name": "Drake",
+      "imageName": "voice_drake",
+      "category": "music",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/drake.wav"
+    },
+    {
+      "id": "vo_eminem",
+      "name": "Eminem",
+      "imageName": "voice_eminem",
+      "category": "music",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/eminem.wav"
+    },
+    {
+      "id": "vo_harry",
+      "name": "Harry Potter",
+      "imageName": "voice_harry",
+      "category": "movies",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/harrypoter.wav"
+    },
+    {
+      "id": "vo_jack",
+      "name": "Jack Sparrow",
+      "imageName": "voice_jack",
+      "category": "movies",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/jacksparrow.wav"
+    },
+    {
+      "id": "vo_joker",
+      "name": "Joker",
+      "imageName": "voice_joker",
+      "category": "movies",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/joker.wav"
+    },
+    {
+      "id": "vo_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "imageName": "voice_ronaldo",
+      "category": "sports",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/ronaldo.wav"
+    },
+    {
+      "id": "vo_speed",
+      "name": "IShowSpeed",
+      "imageName": "voice_speed",
+      "category": "streamers",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/showspeed.wav"
+    },
+    {
+      "id": "vo_snoop",
+      "name": "Snoop Dogg",
+      "imageName": "voice_snoop",
+      "category": "music",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/snopdog.wav"
+    },
+    {
+      "id": "vo_yoda",
+      "name": "Yoda",
+      "imageName": "voice_yoda",
+      "category": "movies",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voiceovers/yoda.wav"
     }
   ]
 }
