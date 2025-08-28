@@ -27,6 +27,27 @@
       "artist": "Aslı",
       "imageName": "cover4",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/Electronic.wav"
+    },
+    {
+      "id": "beat5",
+      "name": "Afrobeat",
+      "artist": "Unknown",
+      "imageName": "cover5",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/afrobeat.mp3"
+    },
+    {
+      "id": "beat44",
+      "name": "Beat 44",
+      "artist": "Unknown",
+      "imageName": "cover44",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat44.mp3"
+    },
+    {
+      "id": "beat45",
+      "name": "Beat 45",
+      "artist": "Unknown",
+      "imageName": "cover45",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat45.mp3"
     }
   ],
   "voices": [
