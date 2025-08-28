@@ -66,43 +66,43 @@
     {
       "id": "frosty_john",
       "name": "Frosty John",
-      "imageName": "frosty-john",
+      "imageName": "voice3",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/frosty-john.wav"
     },
     {
       "id": "jsxi",
       "name": "JSXI",
-      "imageName": "jsxi",
+      "imageName": "voice4",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/jsxi.wav"
     },
     {
       "id": "rapvocal1",
       "name": "Rap Vocal 1",
-      "imageName": "rapvocal",
+      "imageName": "voice5",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal.mp3"
     },
     {
       "id": "rapvocal2",
       "name": "Rap Vocal 2",
-      "imageName": "rapvocal2",
+      "imageName": "voice6",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal2.mp3"
     },
     {
       "id": "relikk",
       "name": "Relikk",
-      "imageName": "relikk",
+      "imageName": "voice7",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/relikk.wav"
     },
     {
       "id": "rnbvocal",
       "name": "R&B Vocal",
-      "imageName": "rnbvocal",
+      "imageName": "voice8",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rnbvocal.mp3"
     },
     {
       "id": "tag",
       "name": "Tag Vocal",
-      "imageName": "tag",
+      "imageName": "voice9",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/tag.wav"
     }
   ],
