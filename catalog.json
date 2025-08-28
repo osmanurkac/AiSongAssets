@@ -1,51 +1,52 @@
 {
+{
   "beats": [
     {
       "id": "beat1",
-      "name": "Rapper Beat",
+      "name": "Street Anthem",
       "artist": "RetroFuture",
       "imageName": "cover1",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat1.mp3"
     },
     {
       "id": "beat2",
-      "name": "Melodic Type Beat",
+      "name": "Dreamscape",
       "artist": "LoFiMan",
       "imageName": "cover2",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/MelodicTypeBeat.mp3"
     },
     {
       "id": "beat3",
-      "name": "R&B",
-      "artist": "Osman Tarık",
+      "name": "Velvet Nights",
+      "artist": "Moonwave",
       "imageName": "cover3",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/rnb.mp3"
     },
     {
       "id": "beat4",
-      "name": "Electronic",
-      "artist": "Aslı",
+      "name": "Pulse Machine",
+      "artist": "NovaVibe",
       "imageName": "cover4",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/Electronic.wav"
     },
     {
       "id": "beat5",
-      "name": "Afrobeat",
-      "artist": "Unknown",
+      "name": "Sunset Vibes",
+      "artist": "Nairobi Soul",
       "imageName": "cover5",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/afrobeat.mp3"
     },
     {
       "id": "beat44",
-      "name": "Beat 44",
-      "artist": "Unknown",
+      "name": "Neon Streets",
+      "artist": "Midnight Echo",
       "imageName": "cover44",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat44.mp3"
     },
     {
       "id": "beat45",
-      "name": "Beat 45",
-      "artist": "Unknown",
+      "name": "Cosmic Flow",
+      "artist": "LunarKid",
       "imageName": "cover45",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat45.mp3"
     }
