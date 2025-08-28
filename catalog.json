@@ -52,18 +52,6 @@
   ],
   "voices": [
     {
-      "id": "male_pop",
-      "name": "Rapper",
-      "imageName": "voice1",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice1.mp3"
-    },
-    {
-      "id": "voice2",
-      "name": "Female Singer, Vocals",
-      "imageName": "voice2",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice2.mp3"
-    },
-    {
       "id": "frosty_john",
       "name": "Frosty John",
       "imageName": "voice3",
