@@ -50,20 +50,62 @@
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat45.mp3"
     }
   ],
-  "voices": [
-    {
-      "id": "male_pop",
-      "name": "Rapper",
-      "imageName": "voice1",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice1.mp3"
-    },
-    {
-      "id": "voice2",
-      "name": "Female Singer, Vocals",
-      "imageName": "voice2",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice2.mp3"
-    }
-  ],
+"voices": [
+  {
+    "id": "male_pop",
+    "name": "Rapper",
+    "imageName": "voice1",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice1.mp3"
+  },
+  {
+    "id": "voice2",
+    "name": "Female Singer, Vocals",
+    "imageName": "voice2",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/voice2.mp3"
+  },
+  {
+    "id": "frosty_john",
+    "name": "Frosty John",
+    "imageName": "frosty-john",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/frosty-john.wav"
+  },
+  {
+    "id": "jsxi",
+    "name": "JSXI",
+    "imageName": "jsxi",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/jsxi.wav"
+  },
+  {
+    "id": "rapvocal1",
+    "name": "Rap Vocal 1",
+    "imageName": "rapvocal",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal.mp3"
+  },
+  {
+    "id": "rapvocal2",
+    "name": "Rap Vocal 2",
+    "imageName": "rapvocal2",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal2.mp3"
+  },
+  {
+    "id": "relikk",
+    "name": "Relikk",
+    "imageName": "relikk",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/relikk.wav"
+  },
+  {
+    "id": "rnbvocal",
+    "name": "R&B Vocal",
+    "imageName": "rnbvocal",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rnbvocal.mp3"
+  },
+  {
+    "id": "tag",
+    "name": "Tag Vocal",
+    "imageName": "tag",
+    "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/tag.wav"
+  }
+],
   "voiceovers": [
     {
       "id": "Bulk",
