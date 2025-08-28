@@ -52,10 +52,10 @@
   ],
   "voices": [
     {
-      "id": "frosty_john",
-      "name": "Frosty John",
-      "imageName": "voice3",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/frosty-john.wav"
+      "id": "rapvocal2",
+      "name": "Rap Vocal 2",
+      "imageName": "voice6",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal2.mp3"
     },
     {
       "id": "jsxi",
@@ -70,10 +70,10 @@
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal.mp3"
     },
     {
-      "id": "rapvocal2",
-      "name": "Rap Vocal 2",
-      "imageName": "voice6",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal2.mp3"
+      "id": "frosty_john",
+      "name": "Frosty John",
+      "imageName": "voice3",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/frosty-john.wav"
     },
     {
       "id": "relikk",
