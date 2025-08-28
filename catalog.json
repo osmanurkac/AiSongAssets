@@ -59,9 +59,9 @@
     },
     {
       "id": "jsxi",
-      "name": "JSXI",
-      "imageName": "voice4",
-      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/jsxi.wav"
+      "name": "Female",
+      "imageName": "voice7",
+      "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/female.mp3"
     },
     {
       "id": "rapvocal1",
@@ -78,7 +78,7 @@
     {
       "id": "relikk",
       "name": "Relikk",
-      "imageName": "voice7",
+      "imageName": "voice4",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/relikk.wav"
     },
     {
