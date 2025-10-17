@@ -53,19 +53,19 @@
   "voices": [
     {
       "id": "rapvocal2",
-      "name": "Rap Vocal 2",
+      "name": "AceDray",
       "imageName": "voice6",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal2.mp3"
     },
     {
       "id": "jsxi",
-      "name": "Female",
+      "name": "Léa Nova",
       "imageName": "voice7",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/female.mp3"
     },
     {
       "id": "rapvocal1",
-      "name": "Rap Vocal 1",
+      "name": "Jynx Carter",
       "imageName": "voice5",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rapvocal.mp3"
     },
@@ -83,13 +83,13 @@
     },
     {
       "id": "rnbvocal",
-      "name": "R&B Vocal",
+      "name": "Kairo Venn",
       "imageName": "voice8",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/rnbvocal.mp3"
     },
     {
       "id": "tag",
-      "name": "Tag Vocal",
+      "name": "Yvng Atlas",
       "imageName": "voice9",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/voices/tag.wav"
     }
