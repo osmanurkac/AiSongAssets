@@ -2,28 +2,28 @@
   "beats": [
     {
       "id": "beat1",
-      "name": "Street Anthem",
+      "name": "Grind Mode",
       "artist": "RetroFuture",
       "imageName": "cover1",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat1.mp3"
     },
     {
       "id": "beat2",
-      "name": "Dreamscape",
+      "name": "Late Night Loops",
       "artist": "LoFiMan",
       "imageName": "dream",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/MelodicTypeBeat.mp3"
     },
     {
       "id": "beat3",
-      "name": "Velvet Nights",
+      "name": "Velvet Dreams",
       "artist": "Moonwave",
       "imageName": "cover3",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/rnb.mp3"
     },
     {
       "id": "beat4",
-      "name": "Pulse Machine",
+      "name": "Digital Pulse",
       "artist": "NovaVibe",
       "imageName": "cover4",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/Electronic.wav"
@@ -37,7 +37,7 @@
     },
     {
       "id": "beat44",
-      "name": "Neon Streets",
+      "name": "City Lights",
       "artist": "Midnight Echo",
       "imageName": "cover44",
       "url": "https://raw.githubusercontent.com/osmanurkac/AiSongAssets/main/beats/beat44.mp3"
